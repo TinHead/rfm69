@@ -1,4 +1,4 @@
-package rfm69
+package tinygo-rfm69
 
 // Data is the data structure for the protocol
 type Data struct {

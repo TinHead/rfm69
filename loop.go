@@ -1,4 +1,4 @@
-package rfm69
+package tinygo-rfm69
 
 import (
 	"fmt"
