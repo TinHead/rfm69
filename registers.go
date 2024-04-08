@@ -33,7 +33,7 @@
 // **********************************************************************************
 // RFM69/SX1231 Internal registers addresses
 // **************************************************
-package tinygo-rfm69
+package rfm69
 
 // RFM69 Registers
 const (

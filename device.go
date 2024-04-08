@@ -1,5 +1,5 @@
 // Package rfm69 RFM69 Implementation in Go
-package tinygo-rfm69
+package rfm69
 
 import (
 	"errors"
