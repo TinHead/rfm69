@@ -1,3 +1,3 @@
-module github.com/tinhead/rfm69
+module github.com/TinHead/rfm69
 
 go 1.21
